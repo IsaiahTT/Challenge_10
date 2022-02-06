@@ -1,4 +1,4 @@
-# ETF Analysis with SQL and Viewing it Using Voila
+# Clustering Crypto Currencies By Performance Using K-Means
 
 This Jupyter notebook is meant to demonstrate the difference in results of the same crypto currency portfolio data prepared in different ways using K-Means along with StandardScaler and PCA which also come with SciKit, and ends with a conclusional insight on how one might try to use the differences in results.
 This Jupyter notebook contains the to kinds of resulting data of an analysis of a crypto currency portfolio, being two separate elbow plots for each prepared data set showing how best to cluster the scatter plots which come after each.
@@ -29,11 +29,11 @@ To install HvPlot, enter `conda install -c pyviz hvplot` to the terminal. Enter 
 
 #### Example of a K-Means elbow curve:
 
-![Screenshot of elbow curve.](images/elbow.png)
+![Screenshot of elbow curve.](/images/elbow.png)
 
 #### Example of a K-Means segmented scatter plot:
 
-![Screenshot of pca scatter.](images/pca_scatter.png)
+![Screenshot of pca scatter.](/images/pca_scatter.png)
 
 All info is already input and worked on within the Jupyter file. Simply start from the top and go down the page to view relevant data, calculations, analysis, and notes.
 
