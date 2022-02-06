@@ -29,11 +29,11 @@ To install HvPlot, enter `conda install -c pyviz hvplot` to the terminal. Enter 
 
 #### Example of a K-Means elbow curve:
 
-![Screenshot of elbow curve.](/images/elbow.png)
+![Screenshot of elbow curve.](images/elbow.png)
 
 #### Example of a K-Means segmented scatter plot:
 
-![Screenshot of pca scatter.](/images/pca_scatter.png)
+![Screenshot of pca scatter.](images/pca_scatter.png)
 
 All info is already input and worked on within the Jupyter file. Simply start from the top and go down the page to view relevant data, calculations, analysis, and notes.
 
